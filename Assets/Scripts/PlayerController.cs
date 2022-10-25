@@ -15,7 +15,6 @@ public class PlayerController : MonoBehaviour {
     public TextMeshProUGUI winText;
     public TextMeshProUGUI playerPosText;
     public TextMeshProUGUI playerVelocityText;
-    public TextMeshProUGUI distanceText;
     private Vector3 oldPosition;
     private Vector3 currentPosition;
     private Vector3 playerVelocity;
